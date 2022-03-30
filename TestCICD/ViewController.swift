@@ -12,7 +12,11 @@ class ViewController: UIViewController {
     //MARK: - view cycle
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        self.calculate()
+    }
+    
+    func calculate(){
+        print("hello this is dummy print")
     }
 
 
