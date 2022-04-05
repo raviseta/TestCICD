@@ -18,6 +18,10 @@ class ViewController: UIViewController {
     func calculate(){
         print("hello this is dummy print")
     }
+    
+    func doCalculate(){
+        print("yoooo")
+    }
 
 
 }
