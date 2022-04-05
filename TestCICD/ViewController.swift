@@ -20,7 +20,7 @@ class ViewController: UIViewController {
     }
     
     func doCalculate(){
-        print("yoooo")
+        print("yoooohghjgjhgjh")
     }
 
 
